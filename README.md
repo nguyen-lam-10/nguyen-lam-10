@@ -1,16 +1,18 @@
-## Hi there 👋
+## Introduction Myself 👋
 
-<!--
-**nguyen-lam-10/nguyen-lam-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Chi Lam.
 
-Here are some ideas to get you started:
+📚 Projects
+Welcome to my portfolio. Here I showcase my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Tools and Skills
+**Languages**: Python, SQL    
+**Analytics**: Excel, Google Sheets  
+**Data Science**: XGBoost, Prophet, Linear Regression  
+**Documentation**: Word, PowerPoint  
+
+
+🤝 Connect with Me
+- Email: nguyenlam151001@gmail.com 
+- LinkedIn: [linkedin.com/in/lâm-nguyễn-a42b31286](https://linkedin.com/in/lâm-nguyễn-a42b31286)
